@@ -2,4 +2,4 @@ This documentation describes the advantages of some aspiring GitHub Accounts and
 
 It is subjective, to the koalas.
 
-Add different languages for wider audience.
+Add Arabic language for wider audience.
