@@ -1,5 +1,7 @@
 This documentation describes the importance of language diversity in tech.
 
-It is subjective, to the koalas.
+It is subjective, depending on locale.
 
-Describe the preferred tone of voice.
+Add Arabic and Hindu language for wider reach.
+
+
