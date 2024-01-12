@@ -1,5 +1,7 @@
-This documentation describes the advantages of some aspiring GitHub Accounts and their repos.
+This documentation describes the importance of language diversity in tech.
 
 It is subjective, depending on locale.
 
 Add Arabic and Hindu language for wider reach.
+
+
