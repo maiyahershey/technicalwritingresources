@@ -1,2 +1,2 @@
-# technicalwritingresources
-This is a repo for selected resources on technical writing and documentation
+# Write Right
+This is a collection of selected useful resources on technical writing, documentation, and information architecture
