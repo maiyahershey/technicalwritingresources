@@ -1,4 +1,7 @@
 # Write Right
+
+![LOGO](https://github.com/maiyahershey/writeright/assets/102880975/57bf8bd3-0ef7-40f3-8a9b-277863f78132)
+
 This is a collection of selected useful resources on technical writing, documentation, and information architecture
 
 >"An information architect is a bridge builder" - Peter Horvil
@@ -7,11 +10,13 @@ This is a collection of selected useful resources on technical writing, document
 
 **What is Markdown?**
 
-Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents.
+Markdown is a lightweight markup language that you can use to add formatting 
+elements to plaintext text documents.
 
 Thus, Markdown is two things:
 1. a plain text formatting syntax
-2. a software tool, written in Perl, that converts the plain text formatting to HTML. 
+2. a software tool, written in Perl, that converts the plain text formatting to 
+HTML. 
 
 
 
